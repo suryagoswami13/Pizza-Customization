@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Pizza-Customization/static/css/main.0a9a9771.chunk.css",
-    "main.js": "/Pizza-Customization/static/js/main.66a75c4f.chunk.js",
-    "main.js.map": "/Pizza-Customization/static/js/main.66a75c4f.chunk.js.map",
+    "main.js": "/Pizza-Customization/static/js/main.53e864d1.chunk.js",
+    "main.js.map": "/Pizza-Customization/static/js/main.53e864d1.chunk.js.map",
     "runtime-main.js": "/Pizza-Customization/static/js/runtime-main.ead365e7.js",
     "runtime-main.js.map": "/Pizza-Customization/static/js/runtime-main.ead365e7.js.map",
     "static/js/2.37fd1e27.chunk.js": "/Pizza-Customization/static/js/2.37fd1e27.chunk.js",
@@ -16,14 +16,14 @@
     "static/media/Olive.0da28a3b.png": "/Pizza-Customization/static/media/Olive.0da28a3b.png",
     "static/media/Pineapple.33c89c63.png": "/Pizza-Customization/static/media/Pineapple.33c89c63.png",
     "static/media/PizzaBase.b01ddacc.png": "/Pizza-Customization/static/media/PizzaBase.b01ddacc.png",
+    "static/media/PizzaLogo.b6438c19.png": "/Pizza-Customization/static/media/PizzaLogo.b6438c19.png",
     "static/media/PizzaMan.c91aed81.png": "/Pizza-Customization/static/media/PizzaMan.c91aed81.png",
-    "static/media/Tomato.ed6f5243.png": "/Pizza-Customization/static/media/Tomato.ed6f5243.png",
-    "static/media/pizzalogo.b6438c19.png": "/Pizza-Customization/static/media/pizzalogo.b6438c19.png"
+    "static/media/Tomato.ed6f5243.png": "/Pizza-Customization/static/media/Tomato.ed6f5243.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ead365e7.js",
     "static/js/2.37fd1e27.chunk.js",
     "static/css/main.0a9a9771.chunk.css",
-    "static/js/main.66a75c4f.chunk.js"
+    "static/js/main.53e864d1.chunk.js"
   ]
 }
