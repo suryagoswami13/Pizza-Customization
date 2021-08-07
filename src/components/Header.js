@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from "../assets/pizzalogo.png";
+import Logo from "../assets/PizzaLogo.png";
 export default function Header() {
   return (
     <div
@@ -9,8 +9,7 @@ export default function Header() {
         display: "flex",
         justifyContent: "space-between",
         alignItems: "center",
-      }}
-    >
+      }} >
       <div style={{ display: "flex", alignItems: "center" }}>
         <img src={Logo} alt="pizzalogo" height="40px" />
         <div
@@ -19,9 +18,7 @@ export default function Header() {
             fontSize: 30,
             color: "yellow",
             fontFamily: "Alata,sans-serif",
-          }}
-        >
-          Pizza Customization
+          }} > Pizza Customization
         </div>
       </div>
     </div>

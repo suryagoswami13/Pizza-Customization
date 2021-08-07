@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import Header from "./components/Header";
-
 import Customize from "./components/Customize";
 import Checkout from "./components/Checkout";
 
@@ -33,7 +32,7 @@ function App() {
               setIngredients={setIngredients}
             />
           </Route>
-          <Route path="/checkout">
+          <Route path="/Checkout">
             <Checkout ingredients={ingredients} />
           </Route>
         </Switch>

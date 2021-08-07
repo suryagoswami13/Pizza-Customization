@@ -163,7 +163,7 @@ export default function Customize({ ingredients, setIngredients }) {
           <span className="checkmark"></span>
         </label>
         <button
-          onClick={() => history.push("/checkout")}
+          onClick={() => history.push("/Checkout")}
           className="proceedToCheckout"
         >
           Proceed to Checkout
